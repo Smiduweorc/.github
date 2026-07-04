@@ -69,7 +69,7 @@ Attribution: `https://www.beebetternaturally.com/blog/2020/8/23/green-lacewings-
 ---
 
 
-## Bagworm (WIP, to be released)
+## Bagworm
 
 ![logo](./assets/bagCan.png)
 
