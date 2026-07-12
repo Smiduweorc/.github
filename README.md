@@ -44,7 +44,7 @@ Attribution: Alexander Wild `https://www.antwiki.org/wiki/Messor_cephalotes`
 
 ---
 
-## Lacewing (WIP, to be released)
+## Lacewing
 
 ![logo](./assets/lacewinglogo.png)
 
