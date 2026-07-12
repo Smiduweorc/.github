@@ -13,6 +13,37 @@ They are funny but specialized and can be surprisingly effective.
 
 ---
 
+## Cephalote
+
+![logo](./assets/cephalotelogo.png)
+
+Some Cephalote heads are literally shaped like doors.
+
+When danger approaches, they plug the nest entrance with their heads, preventing intruders from entering.
+
+Cephalote takes inspiration from this behavior by scanning projects for weak and broken cryptography before it reaches production.
+
+#### Fun fact
+
+Some species of *Cephalotes* can glide through the air if they fall from trees, steering themselves back toward the trunk.
+
+We wanted to actually use the real species since cephalote is a genus, but the name was too long and weird.
+
+Nature is weird.
+
+#### Pictures
+
+![big ahh head](./assets/cepholateVarians.png)
+
+Attribution: Alexander Wild `https://www.alexanderwild.com/Ants/Natural-History/Soldier-Ants/i-839Xb2z`
+
+
+![Generic Cephalote](./assets/genericCephalote.png)
+
+Attribution: Alexander Wild `https://www.antwiki.org/wiki/Messor_cephalotes`
+
+---
+
 ## Lacewing (WIP, to be released)
 
 ![logo](./assets/lacewinglogo.png)
