@@ -15,7 +15,7 @@ They are funny but specialized and can be surprisingly effective.
 
 ## Cephalote
 
-![logo](./assets/cephalotelogo.png)
+![logo](../assets/cephalotelogo.png)
 
 Some Cephalote heads are literally shaped like doors.
 
@@ -33,12 +33,12 @@ Nature is weird.
 
 #### Pictures
 
-![big ahh head](./assets/cepholateVarians.png)
+![big ahh head](../assets/cepholateVarians.png)
 
 Attribution: Alexander Wild `https://www.alexanderwild.com/Ants/Natural-History/Soldier-Ants/i-839Xb2z`
 
 
-![Generic Cephalote](./assets/genericCephalote.png)
+![Generic Cephalote](../assets/genericCephalote.png)
 
 Attribution: Alexander Wild `https://www.antwiki.org/wiki/Messor_cephalotes`
 
@@ -46,7 +46,7 @@ Attribution: Alexander Wild `https://www.antwiki.org/wiki/Messor_cephalotes`
 
 ## Lacewing
 
-![logo](./assets/lacewinglogo.png)
+![logo](../assets/lacewinglogo.png)
 
 Lacewings are one of nature's biological BEST pest control.
 
@@ -62,7 +62,7 @@ Adult lacewings and their larvae look so different that you'd probably never gue
 
 #### Pictures
 
-![Green lacewing](./assets/lacewingadult.png)
+![Green lacewing](../assets/lacewingadult.png)
 
 Attribution: `https://www.beebetternaturally.com/blog/2020/8/23/green-lacewings-in-the-bee-better-naturally-teaching-garden`
 
@@ -71,7 +71,7 @@ Attribution: `https://www.beebetternaturally.com/blog/2020/8/23/green-lacewings-
 
 ## Bagworm
 
-![logo](./assets/bagCan.png)
+![logo](../assets/bagCan.png)
 
 Bagworms build portable shelters using whatever materials they can find:
 
@@ -91,7 +91,7 @@ A bagworm spends almost its entire life inside the case it builds.
 
 #### Pictures
 
-![Weird House, but in this economy, better than nothing ig](./assets/bagwormfunny.jpg)
+![Weird House, but in this economy, better than nothing ig](../assets/bagwormfunny.jpg)
 
 Attribution: Reddit `https://www.reddit.com/r/interestingasfuck/comments/c6x1ub/the_caterpillars_of_the_bagworm_moth_build_their/`
 
