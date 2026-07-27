@@ -119,3 +119,4 @@ Our projects generally follow a few ideas:
 - Ship software we'd actually want to use ourselves.
 - Have a little fun along the way.
 - AI is fine, so long used reasonably. One human can't know everything.
+- Our libraries are generally insects
