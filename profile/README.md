@@ -30,7 +30,7 @@ And yes, they're mostly drawn in Excalidraw.
 Our projects generally follow a few ideas:
 
 - Solve one problem well.
-- Prefer opinionated defaults over endless configuration.
+- We force you to make safe/opinionated default choices.
 - Keep dependencies to a minimum.
 - Ship software we'd actually want to use ourselves.
 - Have a little fun along the way.
