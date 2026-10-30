@@ -39,3 +39,4 @@ Our projects generally follow a few ideas:
 - We are language agnostic in a sense that we use whatever language is best suited for us to solve a problem, we pick up a language to use when ever needed, we don't force a runtime to do something it should not be doing
 - We are not anti-agile, we just don't really use it
 - We do this for the love of the game and we do not care about "establishing a userbase or community", unless there is a good reason (e.g. getting usability opinions).
+- DECIDE EARLY, DETAILS MATTER NEVER "just do an MVP and make changes later"! (Be it a spec or anything, this is important!)
