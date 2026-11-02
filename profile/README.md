@@ -29,7 +29,7 @@ And yes, they're mostly drawn in Excalidraw.
 
 Our projects generally follow a few ideas:
 
-- Solve one problem well.
+- Solve one problem well. Problems can be grouped together and can contain multiple items, we do not do the unix philosphy. If there are too many sub-problems, make informed decisions to set boundaries. (A mission comes first, information helps you make a decision. If you lack information, make a decision to get information.)
 - We force you to make safe/opinionated default choices.
 - Keep dependencies to a minimum.
 - Ship software we'd actually want to use ourselves.
