@@ -41,3 +41,8 @@ Our projects generally follow a few ideas:
 - We do this for the love of the game and we do not care about "establishing a userbase or community", unless there is a good reason (e.g. getting usability opinions).
 - DECIDE EARLY, DETAILS MATTER, NEVER "just do an MVP and make changes later"! (Be it a spec or anything, this is important!)
 - WE NEVER EVER advertise ourselves. We build for fun, not for a product, user base or anything like that. These libraries are for us to use and if you find it useful, good for you.
+
+---
+
+### Indexing
+I was a bit reluctant to do this, but I have decided to index my site on google because of opportunities coming my way. I will take it down once I am done with that :C
