@@ -46,3 +46,14 @@ Our projects generally follow a few ideas:
 
 ### Indexing
 I was a bit reluctant, but the site is indexed on Google for now because of opportunities coming my way. Being findable is not advertising. I will take it down once I am done with that :C
+
+### LICENSE(s)
+We mainly use ISC, however, MIT is used in some projects that came before as they were carried over from our gitlab before we made the switch, we realized that ISC is a lot more friendly to read.
+
+If a project uses code someone else has written or has a need to use a different license, we do what we must.
+
+### Releasing
+We intend to properly migrate to github at some point for proper provenance and handling.
+
+### Templates
+They exist for real reasons and use, not every project that we make becomes OSS by default. Some are personal, for personal use. We will likely look into curbing templates at some point or properly setting a sibling org for templates.
