@@ -46,3 +46,8 @@ Our projects generally follow a few ideas:
 
 ### Indexing
 I was a bit reluctant to do this, but I have decided to index my site on google because of opportunities coming my way. I will take it down once I am done with that :C
+
+### LICENSE(s)
+We mainly use ISC, however, MIT is used in some projects that came before as they were carried over from our gitlab before we made the switch, we realized that ISC is a lot more friendly to read.
+
+If a project uses code someone else has written or has a need to use a different license, we do what we must.
