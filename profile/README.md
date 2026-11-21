@@ -42,6 +42,8 @@ Our projects generally follow a few ideas:
 - Have a little fun along the way.
 - Our libraries are generally insects.
 
+This is my fun corner of the internet. In a professional environment I will never use these libraries without approval, I am unlikely to ever suggest using them, and I would never impose my own ideals and goals on anyone.
+
 ---
 
 ### Indexing
